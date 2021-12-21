@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/newFakeStore/static/css/main.f9a26e3a.css",
+    "main.js": "/newFakeStore/static/js/main.73a019ce.js",
+    "static/media/YinandYang.gif": "/newFakeStore/static/media/YinandYang.a813db939f75be612b72.gif",
+    "index.html": "/newFakeStore/index.html",
+    "main.f9a26e3a.css.map": "/newFakeStore/static/css/main.f9a26e3a.css.map",
+    "main.73a019ce.js.map": "/newFakeStore/static/js/main.73a019ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9a26e3a.css",
+    "static/js/main.73a019ce.js"
+  ]
+}
